@@ -1,0 +1,2 @@
+print('Hello Python World v0.01')
+'Hello Coconut World v0.01' |> print
